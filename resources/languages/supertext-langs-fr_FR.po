@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Supertext Polylang\n"
+"POT-Creation-Date: 2015-02-07 09:16+0100\n"
+"PO-Revision-Date: 2016-08-12 08:36+0100\n"
+"Last-Translator: Heinrich Muralt <heinrich@supertext.ch>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language-Team: \n"
+
+msgid "de-CH"
+msgstr "allemand (Suisse)"
+
+msgid "en-US"
+msgstr "anglais (USA)"
+
+msgid "fr-CH"
+msgstr "français (Suisse)"
+
+msgid "it-CH"
+msgstr "italien (Suisse)"
+
+msgid "sv"
+msgstr "suédois"
+
+msgid "da"
+msgstr "danois"
+
+msgid "no"
+msgstr "norvégien"
+
+msgid "es-ES"
+msgstr "espagnol (Espagne)"
+
+msgid "pt-PT"
+msgstr "portugais (Portugal)"
+
+msgid "nl"
+msgstr "néerlandais"
+
+msgid "zh"
+msgstr "chinois"
+
+msgid "ru"
+msgstr "russe"
+
+msgid "de-DE"
+msgstr "allemand (Allemagne)"
+
+msgid "de-AT"
+msgstr "allemand (Autriche)"
+
+msgid "en-GB"
+msgstr "anglais (Grande-Bretagne)"
+
+msgid "fr-FR"
+msgstr "français (France)"
+
+msgid "it-IT"
+msgstr "italien (Italie)"
+
+msgid "tr"
+msgstr "turc"
+
+msgid "pl"
+msgstr "polonais"
+
+msgid "en_IE"
+msgstr "anglais (Irlande)"
+
+msgid "de"
+msgstr "allemand"
+
+msgid "fr"
+msgstr "français"
+
+msgid "en"
+msgstr "anglais"
+
+msgid "it"
+msgstr "italien"
+
+msgid "nl-BE"
+msgstr "flamand"
+
+msgid "fr-BE"
+msgstr "français (Belgique)"
+
+msgid "sq"
+msgstr "albanais"
+
+msgid "ar"
+msgstr "arabe"
+
+msgid "bs-BA"
+msgstr "bosniaque"
+
+msgid "nb-NO"
+msgstr "norvégien"
+
+msgid "et"
+msgstr "estonien"
+
+msgid "fi"
+msgstr "finnois"
+
+msgid "el"
+msgstr "grec"
+
+msgid "he"
+msgstr "hébreu"
+
+msgid "ja"
+msgstr "japonais"
+
+msgid "ko"
+msgstr "coréen"
+
+msgid "hr"
+msgstr "croate"
+
+msgid "lv"
+msgstr "letton"
+
+msgid "lt"
+msgstr "lituanien"
+
+msgid "mk"
+msgstr "macédonien"
+
+msgid "sr"
+msgstr "serbe"
+
+msgid "sk"
+msgstr "slovaque"
+
+msgid "sl"
+msgstr "slovène"
+
+msgid "cs"
+msgstr "tchèque"
+
+msgid "th"
+msgstr "thaïlandais"
+
+msgid "hu"
+msgstr "hongrois"
+
+msgid "ro"
+msgstr "roumain"
+
+msgid "es-LAm"
+msgstr "espagnol (Amérique du Sud)"
+
+msgid "pt-BR"
+msgstr "portugais (Brésil)"
+
+msgid "rm-CH"
+msgstr "rhéto-romanche"
+
+msgid "es"
+msgstr "espagnol"
+
+msgid "pt"
+msgstr "portugais"
+
+msgid "zh-CHS"
+msgstr "chinois (simplifié)"
+
+msgid "zh-CHT"
+msgstr "chinois (traditionnel)"
+
+msgid "bg-BG"
+msgstr "bulgare"
+
+msgid "ta-IN"
+msgstr "tamoul"
+
+msgid "ms-MY"
+msgstr "malaisien"
+
+msgid "hi-IN"
+msgstr "hindi"
+
+msgid "la"
+msgstr "latin"

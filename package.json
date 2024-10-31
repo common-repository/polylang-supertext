@@ -1,0 +1,31 @@
+{
+  "name": "polylang-supertext",
+  "title": "Supertext translation",
+  "url": "https://wordpress.org/plugins/polylang-supertext/",
+  "version": "2.7.0",
+  "description": "Supertext translation plugin",
+  "author": "Heinrich Muralt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Supertext/polylang-supertext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Supertext/polylang-supertext/issues"
+  },
+  "devDependencies": {
+    "es6-promise": "^4.2.8",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-header": "^2.0.9",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.11.0",
+    "sass": "^1.35.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

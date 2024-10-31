@@ -1,0 +1,92 @@
+.frmServiceSupertextConfig {
+  width: 830px;
+
+  select {
+    width: 180px;
+  }
+}
+
+.postbox_admin {
+  h3 {
+    padding: 3px;
+  }
+
+  img {
+    cursor: pointer;
+  }
+}
+
+.nav-tab-wrapper .button-tab-nav {
+  float: right;
+}
+
+.postbox {
+  table th {
+    text-align: left;
+    font-weight: bold;
+  }
+
+  input,
+  select {
+    font-size: 13px;
+  }
+
+  .button-add {
+    margin-top: 10px;
+  }
+
+  .button-remove .dashicons {
+    padding-top: 3px;
+  }
+}
+
+#shortcodesSettingsForm {
+  .shortcode-setting-container {
+    margin: 10px 0;
+    background: #ddd;
+  }
+
+  .shortcode-setting-part {
+    float: left;
+    padding: 10px;
+
+    input {
+      width: 154px;
+    }
+
+    input[type="checkbox"] {
+      width: unset;
+    }
+  }
+
+  .shortcode-setting-part-attributes {
+    min-width: 370px;
+  }
+
+  .shortcode-setting-title {
+    margin-bottom: 5px;
+  }
+
+  .shortcode-remove-setting {
+    margin: 0 0 10px 10px;
+  }
+
+  .shortcode-attribute-add-input {
+    margin-top: 0px;
+  }
+}
+
+#translatablefieldsSettingsForm {
+  .custom-field-input {
+    margin-bottom: 3px;
+  }
+}
+
+#workflowSettingsForm {
+  .sttr-api-url {
+    width: 400px;
+    height: 28px;
+    line-height: 28px;
+    vertical-align: bottom;
+  }
+}
